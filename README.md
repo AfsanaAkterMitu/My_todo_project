@@ -30,4 +30,4 @@ Step 4: Run Migrations python manage.py migrate
 Step 5: Start the Development Server python manage.py runserver
 
 
-Step 6: Access the Application Open your browser and go to http://127.0.0.1:8000/.
+Step 6: Access the Application Open your browser and go to http://127.0.0.1:8000/todo.
